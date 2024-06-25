@@ -1,6 +1,6 @@
 # Eduardo Luiz
 
-## Sobre Mim
+## Sobre
 - 🚀 Desenvolvedor de Software
 - 🎓 Bacharel em Ciência da Computação
 - 💼 Trabalhando atualmente na [VERT](https://www.linkedin.com/company/vertcapital/)
