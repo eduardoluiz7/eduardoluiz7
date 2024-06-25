@@ -4,7 +4,8 @@
 - 🚀 Desenvolvedor de Software
 - 🎓 Bacharel em Ciência da Computação
 - 💼 Trabalhando atualmente na [VERT](https://www.linkedin.com/company/vertcapital/)
-- 🌱 Aprendendo sempre mais sobre Engenharia de Software
+
+⚠️*Os repositórios públicos podem não refletir meus trabalhos e tecnologias atuais*⚠️
 
 ## Contato
 [![Website](https://img.shields.io/badge/-Website-ff69b4?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://eduardoluiz7.github.io)](https://eduardoluiz7.github.io)
