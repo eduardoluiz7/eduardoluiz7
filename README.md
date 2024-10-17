@@ -8,7 +8,7 @@
 ⚠️*Os repositórios públicos podem não refletir meus trabalhos e tecnologias atuais*⚠️
 
 ## Contato
-[![Website](https://img.shields.io/badge/-Website-6969ff?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://eduardoluiz7.github.io)](https://eduardoluiz7.github.io)
+[![Website](https://img.shields.io/badge/-Website-6969ff?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://eduardoluiz7.github.io)](https://eduardoluiz.com.br)
 [![Instagram](https://img.shields.io/badge/-Instagram-6969ff?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/eduardoluiz0)](https://www.instagram.com/eduardoluiz0)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-6969ff?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/eduardoluizs)](https://www.linkedin.com/in/eduardoluizs)
 
