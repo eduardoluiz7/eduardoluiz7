@@ -3,7 +3,7 @@
 ## Sobre
 - 🚀 Desenvolvedor de Software
 - 🎓 Bacharel em Ciência da Computação
-- 💼 Trabalhando atualmente na [VERT](https://www.linkedin.com/company/vertcapital/)
+- 💼 Trabalhando atualmente no [Luizalabs](https://www.linkedin.com/company/luizalabs/)
 
 ⚠️*Os repositórios públicos podem não refletir meus trabalhos e tecnologias atuais*⚠️
 
